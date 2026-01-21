@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437082294349",
+    "project_id": "deepfeels-app",
+    "storage_bucket": "deepfeels-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437082294349:android:5856d74152e7a657ddf404",
+        "android_client_info": {
+          "package_name": "com.deepfeels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437082294349-rkpi0bpsfu89n4lks40q9pk0na1l7qdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepfeels",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "437082294349-oi1637q4pm8f9ctnhqes8ml0ri6b0oqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJdKycUgnH9-1F9jMU2D5Z0WdCMs2akO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437082294349-oi1637q4pm8f9ctnhqes8ml0ri6b0oqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
